@@ -53,7 +53,7 @@ Logo abaixo (nos repositórios fixados) você encontra os projetos que venho des
 
 ### 🤝 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaina-ferrer-86869034b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaina-ferrer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrerglaina@gmail.com)
 
 > *"A evolução acontece um projeto de cada vez."* 🚀
