@@ -17,8 +17,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e formação **Full Stac
 
 ### 💻 Foco e Abordagem
 
-### 💻 Foco e Abordagem
-
 - **Desenvolvimento Full Stack:** Integração entre Front-end, Back-end e **SQL** com foco em funcionalidade e boa experiência de uso.
 - **Evolução na prática:** Aplicação contínua de boas práticas, estruturação de código e versionamento em projetos reais.
 - **Trabalho em equipe:** Comunicação clara, escuta ativa e facilidade para colaborar no dia a dia de produto e tecnologia.
