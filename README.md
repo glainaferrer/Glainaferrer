@@ -5,7 +5,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** e formação **Full Stack**. A programação entrou na minha rotina como uma nova habilidade e hoje dedico meu tempo à construção de aplicações completas — unindo organização, boa comunicação e código limpo para resolver problemas reais.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/glaina-ferrer" target="_blank">
+  <a href="https://www.linkedin.com/in/glaina-ferrer-86869034b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ferrerglaina@gmail.com">
@@ -20,11 +20,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e formação **Full Stac
 - **Desenvolvimento Full Stack:** Integração entre Front-end, Back-end e **SQL** com foco em funcionalidade e boa experiência de uso.
 - **Evolução na prática:** Aplicação contínua de boas práticas, estruturação de código e versionamento em projetos reais.
 - **Trabalho em equipe:** Comunicação clara, escuta ativa e facilidade para colaborar no dia a dia de produto e tecnologia.
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 **Front-end**
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -34,19 +36,19 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e formação **Full Stac
 </p>
 
 **Banco de Dados**
+
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL e MySQL" />
 </p>
 
 **Ferramentas & Versionamento**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, MySQL, Git, GitHub, VS Code" />
-</p>
+
 ---
 
 ### 📂 Projetos em Destaque
