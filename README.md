@@ -5,7 +5,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** e formação **Full Stack**. A programação entrou na minha rotina como uma nova habilidade e hoje dedico meu tempo à construção de aplicações completas — unindo organização, boa comunicação e código limpo para resolver problemas reais.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/glaina-ferrer-86869034b" target="_blank">
+  <a href="https://www.linkedin.com/in/glaina-ferrer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ferrerglaina@gmail.com">
@@ -17,18 +17,24 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e formação **Full Stac
 
 ### 💻 Foco e Abordagem
 
-- **Desenvolvimento Full Stack:** Construção de aplicações de ponta a ponta, integrando interfaces responsivas, lógica de negócio e bancos de dados (**SQL**).
-- **Aprendizado baseado em projetos:** Transformo teoria em prática constante, aplicando boas práticas de estruturação de código e versionamento.
-- **Comunicação e colaboração:** Facilidade no relacionamento interpessoal, trabalho em equipe e clareza para alinhar soluções técnicas às necessidades do usuário.
+### 💻 Foco e Abordagem
 
+- **Desenvolvimento Full Stack:** Integração entre Front-end, Back-end e **SQL** com foco em funcionalidade e boa experiência de uso.
+- **Evolução na prática:** Aplicação contínua de boas práticas, estruturação de código e versionamento em projetos reais.
+- **Trabalho em equipe:** Comunicação clara, escuta ativa e facilidade para colaborar no dia a dia de produto e tecnologia.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,git,github,vscode" />
-</p>
+| Área | Stack |
+| :--- | :--- |
+| **Front-end** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` |
+| **Banco de Dados** | `SQL` `MySQL` |
+| **Versionamento & Ambiente** | `Git` `GitHub` `VS Code` |
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, MySQL, Git, GitHub, VS Code" />
+</p>
 ---
 
 ### 📂 Projetos em Destaque
