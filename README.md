@@ -51,10 +51,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e formação **Full Stac
 
 ---
 
-### 📂 Projetos em Destaque
-
-Logo abaixo, nos **repositórios fixados**, você encontra os projetos que venho desenvolvendo — cada um documentado com o contexto, as tecnologias aplicadas e os aprendizados envolvidos.
-
----
 
 > *"A evolução acontece um projeto de cada vez."* 🚀
